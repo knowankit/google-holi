@@ -1,0 +1,17 @@
+{
+  "name": "google-holi",
+  "version": "1.0.0",
+  "description": "A npm package similar to google Holi",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knowankit/google-holi.git"
+  },
+  "keywords": ["gogle-holi", "holi", "festival", "holi-javascript"],
+  "author": "Ankit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knowankit/google-holi/issues"
+  },
+  "homepage": "https://github.com/knowankit/google-holi#readme"
+}
