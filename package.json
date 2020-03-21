@@ -1,6 +1,6 @@
 {
   "name": "google-holi",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A npm package similar to google Holi",
   "main": "index.js",
   "repository": {
